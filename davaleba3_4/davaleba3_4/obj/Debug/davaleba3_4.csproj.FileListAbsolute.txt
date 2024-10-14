@@ -1,0 +1,7 @@
+C:\Users\emetivishvili\Desktop\3\davaleba3_4\davaleba3_4\obj\Debug\davaleba3_4.csproj.AssemblyReference.cache
+C:\Users\emetivishvili\Desktop\3\davaleba3_4\davaleba3_4\obj\Debug\davaleba3_4.csproj.CoreCompileInputs.cache
+C:\Users\emetivishvili\Desktop\3\davaleba3_4\davaleba3_4\bin\Debug\davaleba3_4.exe.config
+C:\Users\emetivishvili\Desktop\3\davaleba3_4\davaleba3_4\bin\Debug\davaleba3_4.exe
+C:\Users\emetivishvili\Desktop\3\davaleba3_4\davaleba3_4\bin\Debug\davaleba3_4.pdb
+C:\Users\emetivishvili\Desktop\3\davaleba3_4\davaleba3_4\obj\Debug\davaleba3_4.exe
+C:\Users\emetivishvili\Desktop\3\davaleba3_4\davaleba3_4\obj\Debug\davaleba3_4.pdb

@@ -1,0 +1,7 @@
+C:\Users\emetivishvili\Desktop\3\davalleba 3 srulad\davalleba 3 srulad\bin\Debug\davalleba 3 srulad.exe.config
+C:\Users\emetivishvili\Desktop\3\davalleba 3 srulad\davalleba 3 srulad\bin\Debug\davalleba 3 srulad.exe
+C:\Users\emetivishvili\Desktop\3\davalleba 3 srulad\davalleba 3 srulad\bin\Debug\davalleba 3 srulad.pdb
+C:\Users\emetivishvili\Desktop\3\davalleba 3 srulad\davalleba 3 srulad\obj\Debug\davalleba 3 srulad.csproj.AssemblyReference.cache
+C:\Users\emetivishvili\Desktop\3\davalleba 3 srulad\davalleba 3 srulad\obj\Debug\davalleba 3 srulad.csproj.CoreCompileInputs.cache
+C:\Users\emetivishvili\Desktop\3\davalleba 3 srulad\davalleba 3 srulad\obj\Debug\davalleba 3 srulad.exe
+C:\Users\emetivishvili\Desktop\3\davalleba 3 srulad\davalleba 3 srulad\obj\Debug\davalleba 3 srulad.pdb
