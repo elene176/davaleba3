@@ -1,0 +1,7 @@
+C:\Users\emetivishvili\Desktop\3\davaleba 4\davaleba 4\bin\Debug\davaleba 4.exe.config
+C:\Users\emetivishvili\Desktop\3\davaleba 4\davaleba 4\bin\Debug\davaleba 4.exe
+C:\Users\emetivishvili\Desktop\3\davaleba 4\davaleba 4\bin\Debug\davaleba 4.pdb
+C:\Users\emetivishvili\Desktop\3\davaleba 4\davaleba 4\obj\Debug\davaleba 4.csproj.AssemblyReference.cache
+C:\Users\emetivishvili\Desktop\3\davaleba 4\davaleba 4\obj\Debug\davaleba 4.csproj.CoreCompileInputs.cache
+C:\Users\emetivishvili\Desktop\3\davaleba 4\davaleba 4\obj\Debug\davaleba 4.exe
+C:\Users\emetivishvili\Desktop\3\davaleba 4\davaleba 4\obj\Debug\davaleba 4.pdb
